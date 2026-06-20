@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ScanMetaDataStandard xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xmlns="http://www.himsa.com/Scan/ScanMetaData">
+  <ScanPackage>
+    <PackageLocation>https://eur-prod.earscanning.com/api/Manufacturers/98ed6b73-8015-4969-9a3b-1a739f69b450/Orders/5a1d052b-700a-4627-bdd5-4a5ba64e37a7/Download</PackageLocation>
+    <PackageID>5a1d052b-700a-4627-bdd5-4a5ba64e37a7</PackageID>
+  </ScanPackage>
+  <Scans>
+    <ScannerHardware>
+      <ScannerProvider>Otometrics</ScannerProvider>
+      <ScannerModel>Otoscan</ScannerModel>
+      <ScannerType>IntraAural</ScannerType>
+      <UniqueScannerID>SY002799</UniqueScannerID>
+    </ScannerHardware>
+    <ScanProperties>
+      <ScanTimeStamp>2026-05-18T10:54:16.3545992</ScanTimeStamp>
+      <Ear>Left</Ear>
+      <JawPosition>Unknown</JawPosition>
+      <ScanFormat>STL Binary</ScanFormat>
+      <ScanComment>HorizontalMarked: True</ScanComment>
+      <ScanFileAndLocation>https://eur-prodapi.earscanning.com/api/Clinics/bb71f4c7-e50e-404f-bb81-c14af83d630b/Patients/29b0b3c1-a50e-4391-9969-3333aa4b5aae/Scans/854cd7f7-5a2b-42f2-b13c-4d99a3f5f6d6/Stl</ScanFileAndLocation>
+      <ScanFileAndLocation>4b68f015-6314-42a2-8b81-d383e849cf53-00000478423-4_Left_Unknown.stl</ScanFileAndLocation>
+    </ScanProperties>
+  </Scans>
+  <Scans>
+    <ScannerHardware>
+      <ScannerProvider>Otometrics</ScannerProvider>
+      <ScannerModel>Otoscan</ScannerModel>
+      <ScannerType>IntraAural</ScannerType>
+      <UniqueScannerID>SY002799</UniqueScannerID>
+    </ScannerHardware>
+    <ScanProperties>
+      <ScanTimeStamp>2026-05-18T10:54:16.3545992</ScanTimeStamp>
+      <Ear>Right</Ear>
+      <JawPosition>Unknown</JawPosition>
+      <ScanFormat>STL Binary</ScanFormat>
+      <ScanComment>HorizontalMarked: True</ScanComment>
+      <ScanFileAndLocation>https://eur-prodapi.earscanning.com/api/Clinics/bb71f4c7-e50e-404f-bb81-c14af83d630b/Patients/29b0b3c1-a50e-4391-9969-3333aa4b5aae/Scans/26d3b743-7fe2-4e54-9298-7718d98a1e4e/Stl</ScanFileAndLocation>
+      <ScanFileAndLocation>4b68f015-6314-42a2-8b81-d383e849cf53-00000478423-4_Right_Unknown.stl</ScanFileAndLocation>
+    </ScanProperties>
+  </Scans>
+</ScanMetaDataStandard>
